@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/ritam/Windows/Users/Ritam Mallick/AndroidStudioProjects/RajasthanProject-master/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/ritam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/bca0fa78f228b811ad81927e3cdd77bb/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ritam/Desktop/RajasthanProject-master/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/ritam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/bca0fa78f228b811ad81927e3cdd77bb/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

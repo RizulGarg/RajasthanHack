@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/ritam/Windows/Users/Ritam Mallick/AndroidStudioProjects/RajasthanProject-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/home/ritam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/bca0fa78f228b811ad81927e3cdd77bb/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ritam/Desktop/RajasthanProject-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/home/ritam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/bca0fa78f228b811ad81927e3cdd77bb/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}
